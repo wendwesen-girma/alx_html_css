@@ -22,15 +22,19 @@ README.md
 7-index.html, 7-styles.css: Animate items using bouncing and scaling animations
 
 DESKTOP DESIGN
+
 ![Desktop Design](image/01_headphones_desktop@2x.png)
 
 TABLET DESIGN
+
 ![Tablet Design](image/01_headphones_tablet@2x.png)
 
 MOBILE DESIGN
+
 ![Mobile Design](image/01_headphones_mobile@2x.png)
 
 AUTHOR CONTACT INFORMATION
+
 For any inquiries or further information, please feel free to reach out to me:
 
 Name: Wendwesen Girma
