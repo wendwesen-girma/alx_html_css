@@ -38,5 +38,7 @@ AUTHOR CONTACT INFORMATION
 For any inquiries or further information, please feel free to reach out to me:
 
 Name: Wendwesen Girma
+
 Email: wendwesengirma89@gmail.com
+
 LinkedIn: [Wendwesen Girma](https://www.linkedin.com/in/wendwesen-girma-0a6b84293/)
